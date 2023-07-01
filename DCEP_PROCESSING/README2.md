@@ -1,6 +1,6 @@
 # DCEP sentence aligned corpora for 276 language pairs
 
-This guide was outdated and the files laddet2text.py and languagepair.py must be replaced with the ones we provided. Also, the version of python must be 2.[567] in order to run the allignment code (not the current version and dependencies of our other project python scripts, jupyter/databricks/colab notebooks).
+This guide was outdated and the files [laddet2text.py](https://github.com/AlvLC/Machine-Translation-evaluation-metrics-benchmarking/blob/main/DCEP_PROCESSING/ladder2text.py) and [languagepair.py](https://github.com/AlvLC/Machine-Translation-evaluation-metrics-benchmarking/blob/main/DCEP_PROCESSING/languagepair.py) must be replaced with the ones we provided (click on the links). Also, the version of python must be 2.[567] in order to run the allignment code (not the current version and dependencies of our other project python scripts, jupyter/databricks/colab notebooks).
 
 ## Basic usage
 
