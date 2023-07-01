@@ -1,3 +1,4 @@
 # IGNORE ...
+*.txt
 .venv/
 .env
